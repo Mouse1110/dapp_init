@@ -17,3 +17,6 @@ app.use(bodyParser.urlencoded({extended:false}));
 
 
 require("./controllers/side.controller")(app);
+
+
+// config
